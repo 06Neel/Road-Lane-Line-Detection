@@ -13,7 +13,7 @@ Road Lane Line Detection is a computer vision project that aims to detect and tr
 
 To run the Road Lane Line Detection project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/road-lane-line-detection.git`
+1. Clone the repository: `git clone https://github.com/06Neel/Road-Lane-Line-Detection.git`
 2. Install any required dependencies or libraries specified in the project documentation.
 3. Run the main script or application file to start the lane line detection process.
 4. Provide input images or video frames to the program for lane line detection.
